@@ -1,6 +1,10 @@
 
 
-<div class="typing-svg" style="margin: 4px 0 ; padding: 10px 0; border-top: 2px solid rgb(207, 195, 195);border-bottom: 2px solid rgb(207, 195, 195);><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=01C540&vCenter=true&random=false&width=750&height=65&lines=This+is+Anirban+Sarkar;A+tech+enthusiast+A +future+Entrepreneur;Currently+I'm+exploring+AI+Development" alt="Typing SVG" /></a></div>
+<div class="typing-svg" style="margin: 4px 0; padding: 10px 0; border-top: 2px solid rgb(207, 195, 195); border-bottom: 2px solid rgb(207, 195, 195);">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=01C540&vCenter=true&random=false&width=750&height=65&lines=This+is+Anirban+Sarkar;A+tech+enthusiast+A+future+Entrepreneur;Currently+I'm+exploring+AI+Development" alt="Typing SVG" />
+  </a>
+</div>
 
 
 ## 🌐 Socials:
