@@ -23,7 +23,8 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=anantacoder&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=anantacoder&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anantacoder&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+[![Mohammad Saifur Rahman's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=anantacoder&hide=html,stylus,jupyter%20notebook,css,scss,batchfile,dockerfile,&theme=algolia&show_icons=true)](https://github.com/saifurrahman1193)
+
 
 <!--# ⏰ WakaTime Status-->
 <!--[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=anantacoder)](https://github.com/anuraghazra/github-readme-stats)-->
