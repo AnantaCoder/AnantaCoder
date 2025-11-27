@@ -29,8 +29,10 @@
 <!--# ⏰ WakaTime Status-->
 <!--[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=anantacoder)](https://github.com/anuraghazra/github-readme-stats)-->
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=anantacoder&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<!-- GitHub Trophies -->
+  <div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=anantacoder&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+  </div>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
