@@ -22,22 +22,11 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=anantacoder&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=anantacoder&theme=radical&hide_border=false)<br/>
-[![Mohammad Saifur Rahman's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=anantacoder&hide=html,stylus,jupyter%20notebook,css,scss,batchfile,dockerfile,&theme=algolia&show_icons=true)](https://github.com/saifurrahman1193)
+<!-- Light mode -->
+[![GitHub Stats](https://readme-stats-fast.vercel.app/api?username=anantacoder&hide_border=true&show_icons=true&rank_icon=github#gh-light-mode-only)](https://github.com/pranesh-2005/github-readme-stats-fast#gh-light-mode-only)
+[![Top Languages](https://readme-stats-fast.vercel.app/api/top-langs/?username=anantacoder&hide_border=true&layout=compact&langs_count=8#gh-light-mode-only)](https://github.com/pranesh-2005/github-readme-stats-fast#gh-light-mode-only)
 
+<!-- Dark mode -->
+[![GitHub Stats](https://readme-stats-fast.vercel.app/api?username=anantacoder&hide_border=true&show_icons=true&rank_icon=github&theme=github_dark#gh-dark-mode-only)](https://github.com/pranesh-2005/github-readme-stats-fast#gh-dark-mode-only)
+[![Top Languages](https://readme-stats-fast.vercel.app/api/top-langs/?username=anantacoder&hide_border=true&layout=compact&langs_count=8&theme=github_dark#gh-dark-mode-only)](https://github.com/pranesh-2005/github-readme-stats-fast#gh-dark-mode-only)
 
-<!--# ⏰ WakaTime Status-->
-<!--[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=anantacoder)](https://github.com/anuraghazra/github-readme-stats)-->
-
-<!-- GitHub Trophies -->
-  <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=anantacoder&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
-  </div>
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=AnantaCoder&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
