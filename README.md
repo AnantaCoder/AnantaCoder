@@ -1,8 +1,10 @@
 <p align="center">
   <a href="https://anirbansarkar1.netlify.app/">
-    <img src="@anantacoder,.png" alt="Portfolio Preview" width="100%" />
+    <img src="1c9enqmzj1kb1.gif" alt="Portfolio Preview" width="100%" height="60%"/>
   </a>
 </p>
+
+<h1 align="center"><a href="https://anirbansarkar1.netlify.app/">✦ Anirban Sarkar ✦</a></h1>
 
 ## **Tech Stack**
 
