@@ -1,32 +1,66 @@
-
-
-<div class="typing-svg" style="margin: 4px 0; padding: 10px 0; border-top: 2px solid rgb(207, 195, 195); border-bottom: 2px solid rgb(207, 195, 195);">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=01C540&vCenter=true&random=false&width=750&height=65&lines=This+is+Anirban+Sarkar;A+tech+enthusiast+A+future+Entrepreneur;Currently+I'm+exploring+AI+Development" alt="Typing SVG" />
-  </a>
-</div>
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bong_ani_007) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/anirban-sarkar-4b080925a) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Economy_Smile_5207) 
-
-# 💻 Tech Stack & Libraries:
-
-
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,cpp,java,py,go,js,anaconda,fastapi,flask,django,html,sass,nodejs,pkl,postgres,react,redis,selenium,tensorflow,threejs,tailwind,postman" />
+  <a href="https://anirbansarkar1.netlify.app/">
+    <img src="@anantacoder,.png" alt="Portfolio Preview" width="100%" />
   </a>
 </p>
 
+## **Tech Stack**
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=anantacoder&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-<!-- Light mode -->
-[![GitHub Stats](https://readme-stats-fast.vercel.app/api?username=anantacoder&hide_border=true&show_icons=true&rank_icon=github#gh-light-mode-only)](https://github.com/pranesh-2005/github-readme-stats-fast#gh-light-mode-only)
-[![Top Languages](https://readme-stats-fast.vercel.app/api/top-langs/?username=anantacoder&hide_border=true&layout=compact&langs_count=8#gh-light-mode-only)](https://github.com/pranesh-2005/github-readme-stats-fast#gh-light-mode-only)
+<details>
+<summary><b>🖥️ Programming Languages</b></summary>
+<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,cpp,go" />
+</p>
+</details>
 
-<!-- Dark mode -->
-[![GitHub Stats](https://readme-stats-fast.vercel.app/api?username=anantacoder&hide_border=true&show_icons=true&rank_icon=github&theme=github_dark#gh-dark-mode-only)](https://github.com/pranesh-2005/github-readme-stats-fast#gh-dark-mode-only)
-[![Top Languages](https://readme-stats-fast.vercel.app/api/top-langs/?username=anantacoder&hide_border=true&layout=compact&langs_count=8&theme=github_dark#gh-dark-mode-only)](https://github.com/pranesh-2005/github-readme-stats-fast#gh-dark-mode-only)
+<details>
+<summary><b>🚀 Frameworks</b></summary>
+<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=django,flask,nextjs,react,threejs" />
+</p>
+</details>
 
+<details>
+<summary><b>☁️ Cloud & Deployment</b></summary>
+<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=firebase,gcp,docker,kubernetes" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
+  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" />
+</p>
+</details>
+
+<details>
+<summary><b>🎨 Design & Creative Tools</b></summary>
+<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+</p>
+</details>
+
+### **🔥 Tech Arsenal Overview**
+```text
+Programming    ████████████████████   Python , JS , TS , Java , Cpp , Go
+Frameworks     ██████████████████░░   Django , Flask , NextJS , ReactJS , 3JS
+AI/ML          ████████████████░░░░   Deep Learning, Explainable AI , GenAi , LLMS , ML
+Deployment     ███████████████░░░░░   Docker , Kubernetes 
+Cloud          ██████████████░░░░░░   Firebase, Railway , GCP , Render
+```
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anantacoder&bg_color=0d1117&color=4CAF50&line=4CAF50&point=FFFFFF&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+---
+
+<div align="center">
+
+**💫 From [anantacoder](https://github.com/anantacoder) with ❤️**
+</div>
