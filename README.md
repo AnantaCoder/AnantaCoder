@@ -56,9 +56,7 @@ Cloud          ██████████████░░░░░░   Fi
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/AnantaCoder?theme=dark&font=Inter&ext=heatmap" alt="LeetCode Stats" />
 </p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnantaCoder&theme=tokyo-night&hide_border=true" width="95%" alt="Activity Graph" />
-</p>
+
 <p align="center">
   <img alt="Git Koi Animation" src="https://raw.githubusercontent.com/AnantaCoder/AnantaCoder/output/koi.gif" />
 </p>
