@@ -1,0 +1,36 @@
+name: Generate Git-Koi Pond
+
+on:
+  schedule:
+    # Runs every 12 hours
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate git-koi animation
+        uses: yalongwastaken/git-koi@v1.0.2
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/git-koi.svg
+            dist/git-koi-dark.svg?palette=github-dark
+
+      - name: Push generated SVGs to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
