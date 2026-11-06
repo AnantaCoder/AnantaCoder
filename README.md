@@ -57,9 +57,9 @@ Cloud          ██████████████░░░░░░   Fi
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnantaCoder/AnantaCoder/output/dist/git-koi-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnantaCoder/AnantaCoder/output/dist/git-koi.svg">
-  <img alt="Git Koi Animation" src="https://raw.githubusercontent.com/AnantaCoder/AnantaCoder/output/dist/git-koi.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnantaCoder/AnantaCoder/output/dist/git-koi-dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnantaCoder/AnantaCoder/output/dist/git-koi.gif">
+  <img alt="Git Koi Animation" src="https://raw.githubusercontent.com/AnantaCoder/AnantaCoder/output/dist/git-koi.gif">
 </picture>
 
 ---
