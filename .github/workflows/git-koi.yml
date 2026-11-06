@@ -22,10 +22,9 @@ jobs:
       - name: Generate git-koi animation
         uses: yalongwastaken/git-koi@v1.0.2
         with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/git-koi.svg
-            dist/git-koi-dark.svg?palette=github-dark
+          login: ${{ github.repository_owner }}
+          output-dir: dist
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Push generated SVGs to output branch
         uses: crazy-max/ghaction-github-pages@v4
