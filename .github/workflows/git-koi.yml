@@ -2,7 +2,6 @@ name: Generate Git-Koi Pond
 
 on:
   schedule:
-    # Runs every 12 hours
     - cron: "0 */12 * * *"
   workflow_dispatch:
   push:
@@ -22,7 +21,7 @@ jobs:
       - name: Generate git-koi animation
         uses: yalongwastaken/git-koi@v1.0.2
         with:
-          login: ${{ github.repository_owner }}
+          login: AnantaCoder
           output-dir: dist
           token: ${{ secrets.GITHUB_TOKEN }}
 
