@@ -56,11 +56,9 @@ Cloud          ██████████████░░░░░░   Fi
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anantacoder&bg_color=0d1117&color=4CAF50&line=4CAF50&point=FFFFFF&hide_border=true" />
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnantaCoder/AnantaCoder/output/dist/git-koi.gif">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnantaCoder/AnantaCoder/output/dist/git-koi.gif">
-  <img alt="Git Koi Animation" src="https://raw.githubusercontent.com/AnantaCoder/AnantaCoder/output/dist/git-koi.gif">
-</picture>
+<p align="center">
+  <img alt="Git Koi Animation" src="https://raw.githubusercontent.com/AnantaCoder/AnantaCoder/output/koi.gif" />
+</p>
 
 ---
 
