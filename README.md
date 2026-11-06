@@ -52,10 +52,13 @@ Deployment     ███████████████░░░░░   Do
 Cloud          ██████████████░░░░░░   Firebase, Railway , GCP , Render
 ```
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anantacoder&bg_color=0d1117&color=4CAF50&line=4CAF50&point=FFFFFF&hide_border=true" />
-</div>
 
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/AnantaCoder?theme=dark&font=Inter&ext=heatmap" alt="LeetCode Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnantaCoder&theme=tokyo-night&hide_border=true" width="95%" alt="Activity Graph" />
+</p>
 <p align="center">
   <img alt="Git Koi Animation" src="https://raw.githubusercontent.com/AnantaCoder/AnantaCoder/output/koi.gif" />
 </p>
